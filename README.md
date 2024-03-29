@@ -7,3 +7,7 @@ python -m venv .venv
 
 ## deactivate virtual env
 deactivate
+
+## install package
+
+pip install qrcode Pillow
